@@ -368,4 +368,7 @@
     <!-- Whether the keyguard will directly show the lock entry -->
     <string name="directly_show_lock">Direct unlock</string>
     <string name="directly_show_lock_summary">Skip the swipe to unlock screen and immediately begin key entry</string>
+
+    <!-- About phone screen, LazyOS device maintainer name -->
+    <string name="device_dev">Developer</string>
 </resources>

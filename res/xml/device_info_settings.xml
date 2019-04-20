@@ -136,4 +136,8 @@
         android:summary="@string/summary_placeholder"
         settings:allowDividerAbove="true"/>
 
+    <!-- Device Maintainer -->
+    <Preference android:key="device_dev"
+        android:title="@string/device_dev"
+        android:summary="@string/device_info_default" />
 </PreferenceScreen>
