@@ -371,4 +371,8 @@
 
     <!-- About phone screen, LazyOS device maintainer name -->
     <string name="device_dev">Developer</string>
+
+    <!-- Op Style Mobile -->
+    <string name="use_op_mobiletype_title">Use OP mobile signal</string>
+    <string name="use_op_mobiletype_summary">Use the mobile icons from OnePlus\nSystemUI will restart</string>
 </resources>
