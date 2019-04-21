@@ -175,7 +175,7 @@
         android:defaultValue="false"
         lineage:requiresFeature="lineagehardware:FEATURE_HIGH_TOUCH_SENSITIVITY" />
 
-    <lineageos.preference.LineageSystemSettingSwitchPreference
+    <lineageos.preference.LineageGlobalSettingSwitchPreference
         android:key="use_op_mobiletype"
         android:title="@string/use_op_mobiletype_title"
         android:summary="@string/use_op_mobiletype_summary"
