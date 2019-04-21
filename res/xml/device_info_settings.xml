@@ -139,5 +139,10 @@
     <!-- Device Maintainer -->
     <Preference android:key="device_dev"
         android:title="@string/device_dev"
-        android:summary="@string/device_info_default" />
+        android:order="44"
+        android:summary="@string/device_info_default">
+	<intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://github.com/romilparh" />
+    </Preference>
 </PreferenceScreen>
